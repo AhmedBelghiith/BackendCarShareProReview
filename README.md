@@ -44,8 +44,6 @@ touch src/main/java/tn/esprit/CarSharePro/controller/ReviewCommentController.jav
 # Create a README.md file
 touch README.md
 
-# Open the README.md file in your code editor and add content to document your project
-
 # Create any other necessary files, such as application.properties or application.yml, to configure your application
 
 # Build and run the Spring Boot application
